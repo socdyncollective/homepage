@@ -6,16 +6,21 @@ sitemap: false
 permalink: /
 ---
 
-<figure class="fourth" markdown="0">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide2.jpeg" style="width: 640px" />
-</figure>
-<br>
+# Welcome
 
 <p>
 We are a multidisciplinary collective of Data, Computer, and Mathematical sciences researchers across borders that join forces to explore questions related to the dynamics of social systems. 
 Our goal is to create a strong community of like minded researchers with a common agenda. 
 Currently, our members are located in Amsterdam (University of Amsterdam) and Lisbon (Universidade Nova de Lisboa), and our research ties extend to Princeton (USA), Utrecht (Netherlands), Toulouse (France), Santa Catarina (Brazil), and Santiago (Chile). 
 </p>
+
+<br>
+<br>
+<figure class="fourth" markdown="0">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide3.png" style="width: 100%" />
+</figure>
+<br>
+<br>
 
 Currently, the scope of our activities includes:
 - The organization of regular seminars, discussion groups, and workshops
