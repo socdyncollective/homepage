@@ -1,4 +1,4 @@
-I"<h1 id="team">Team</h1>
+I"<h1 id="team">Team</h1>
 
 <div class="row">
 
@@ -14,11 +14,10 @@ www.flaviolpp.com
 
 
 
-
-
-<li> MSc in Physics, FCUL - Universidade de Lisboa (2011) </li>
 <li> PhD in Physics, Universidade do Minho (2016) </li>
 <li> Postdoc at MIT Media Lab Collective Learning group </li>
+
+
 
 
 </ul>
@@ -36,11 +35,10 @@ https://vvvasconcelos.github.io/
 
 
 
-
-
-<li> MSc in Physics, FCUL - Universidade de Lisboa (2012) </li>
 <li> PhD in Sciences, Universidade do Minho (2017) </li>
-<li> Postdoc in Princeton </li>
+<li> Postdoc at Princeton, Environmental Institute </li>
+
+
 
 
 </ul>
@@ -62,11 +60,10 @@ https://fp-santos.github.io/
 
 
 
-
-
-<li> MSc in Computer Engineering, GAIPS/IST - Universidade de Lisboa (2012) </li>
 <li> PhD in Computer Engineering, GAIPS/IST - Universidade do Lisboa (2017) </li>
-<li> Postdoc in Princeton </li>
+<li> Postdoc at Princeton, Environmental Institute </li>
+
+
 
 
 </ul>
@@ -82,7 +79,7 @@ NA
 
     <ul style="overflow: hidden">
 
-<li> MSc in ??? </li>
+<li> MSc </li>
 
 
 
@@ -106,7 +103,7 @@ NA
 
     <ul style="overflow: hidden">
 
-<li> MSc in ??? </li>
+<li> MSc </li>
 
 
 
@@ -172,14 +169,5 @@ NA
 <i>https://kruegerelis.wixsite.com/urbantrends </i></p>
   </div>
 
-  <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/clelia.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Clelia De Mulatier</h4>
-    <p><i>Assistant Professor <br /></i>
-<i>University of Amsterdam <br /></i>
-<i>http://lptms.u-psud.fr/clelia-de-mulatier/ </i></p>
-  </div>
-
 </div>
-
 :ET

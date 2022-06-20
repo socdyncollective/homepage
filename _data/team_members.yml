@@ -3,30 +3,27 @@
   info: Assistant professor, NOVA IMS - Universidade Nova de Lisboa
   email: fpinheiro@novams.unl.pt
   web: www.flaviolpp.com
-  number_educ: 3
-  education1: MSc in Physics, FCUL - Universidade de Lisboa (2011)
-  education2: PhD in Physics, Universidade do Minho (2016)
-  education3: Postdoc at MIT Media Lab Collective Learning group
+  number_educ: 2
+  education1: PhD in Physics, Universidade do Minho (2016)
+  education2: Postdoc at MIT Media Lab Collective Learning group
   
 - name: Vítor V. Vasoncelos
   photo: vitor.jpg
   info: Assistant Professor, Informatics Institute of the University of Amsterdam
   email: v.v.vasconcelos@uva.nl
   web: https://vvvasconcelos.github.io/
-  number_educ: 3
-  education1: MSc in Physics, FCUL - Universidade de Lisboa (2012)
-  education2: PhD in Sciences, Universidade do Minho (2017)
-  education3: Postdoc in Princeton
+  number_educ: 2
+  education1: PhD in Sciences, Universidade do Minho (2017)
+  education2: Postdoc at Princeton, Environmental Institute
 
 - name: Fernando P. Santos
   photo: fernando.jpg
   info: Assistant Professor, Informatics Institute of the University of Amsterdam
   email: f.p.santos@uva.nl
   web: https://fp-santos.github.io/
-  number_educ: 3
-  education1: MSc in Computer Engineering, GAIPS/IST - Universidade de Lisboa (2012)
-  education2: PhD in Computer Engineering, GAIPS/IST - Universidade do Lisboa (2017)
-  education3: Postdoc in Princeton
+  number_educ: 2
+  education1: PhD in Computer Engineering, GAIPS/IST - Universidade do Lisboa (2017)
+  education2: Postdoc at Princeton, Environmental Institute
 
 - name: Dhruv Mittal
   photo: bio-photo.jpg
@@ -34,7 +31,7 @@
   email: d.mittal@uva.nl
   web: NA
   number_educ: 1
-  education1: MSc in ???
+  education1: MSc
 
 - name: Anshul Toshniwal 
   photo: bio-photo.jpg
@@ -42,4 +39,4 @@
   email: a.toshniwal@uva.nl
   web: NA
   number_educ: 1
-  education1: MSc in ???
+  education1: MSc
