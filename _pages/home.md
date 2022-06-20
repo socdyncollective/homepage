@@ -17,7 +17,7 @@ Currently, our members are located in Amsterdam (University of Amsterdam) and Li
 <br>
 <br>
 <figure class="fourth" markdown="0">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide3.png" style="width: 100%" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slide3.png" style="width: 100%" />
 </figure>
 <br>
 <br>
