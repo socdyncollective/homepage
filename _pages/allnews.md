@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Social Dynamics Collective. News"
 sitemap: false
 permalink: /allnews.html
 ---
@@ -10,5 +10,5 @@ permalink: /allnews.html
 
 {% for article in site.data.news %}
 	{{ article.date }}
-	{{ article.headline}}
+	{{ article.html}}
 {% endfor %}
