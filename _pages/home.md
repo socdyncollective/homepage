@@ -26,10 +26,10 @@ Currently, the scope of our activities includes:
 - The organization of regular seminars, discussion groups, and workshops
 - Joint supervision of MSc and Ph.D. students
 - Foster a common research stream
-- Fundraising through the EU-level grant applications and support for local and national institutions
+- Fundraising through the EU-level grant applications and support from local and national institutions
 
 Our research spans a broad range of topics including, but not limited, to:
-- Developing models to understand better the underlying mechanics of Opinion and Innovations diffusion and Behavioral adoption
+- Developing models to understand the underlying mechanics of Opinion and Innovations Diffusion and Behavioral Adoption
 - Use data from social media user activity to test theories and models from social sciences
 - The emergence of institutions in social systems, their self-regulatory properties and competitive nature 
 - Understand the role of complex networks in the unfolding of diffusion processes, in particular, those of social systems
