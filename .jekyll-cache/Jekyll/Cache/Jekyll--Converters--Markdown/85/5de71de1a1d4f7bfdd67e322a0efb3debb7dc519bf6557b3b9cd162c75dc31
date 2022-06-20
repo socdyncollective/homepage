@@ -1,0 +1,60 @@
+I"B<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+    </ol>
+    <!-- Items -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <img src="http://localhost:4000/images/slider7001400/slide1.jpeg" alt="Slide 1" />
+        </div>
+         <div class="item">
+            <img src="http://localhost:4000/images/slider7001400/slide2.jpeg" alt="Slide 2" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<p>
+We are a multidisciplinary collective of Data, Computer, and Mathematical sciences researchers accross borders that join forces to explore questions related with the dynamics of social systems. 
+We believe that combined efforts can … 
+Currently our members are located in Amsterdam (University of Amsterdam) and Lisbon (Universidade Nova de Lisboa) and our research ties extend to Princeton (USA), Utrecth (Netherlands), Toulose (France), Santa Catarina (Brazil), Santiago (Chile). We are open to welcome peers that share our vision and commitment to join our collective, in particular from different regions and/or countries.
+</p>
+
+<p>Currently, the scope of our activities include:</p>
+<ul>
+  <li>The organization of regular seminars, discussion groups, and workshops</li>
+  <li>Supervision of MSc and PhD students</li>
+  <li>Joint research streams</li>
+  <li>Fundraising through the joint EU-level grant applications and/or support for local applications</li>
+</ul>
+
+<p>Our research spans a broad range of specific topics including, but not limited, to:</p>
+<ul>
+  <li>Developing models to study the diffusion of Opinions, Behaviours, and Innovations</li>
+  <li>Collect data from social media sources to …</li>
+  <li>Understand the role of Social Networks in social systems diffusion processes</li>
+  <li>The application of Complex Systems to study socio-economic phenomena</li>
+</ul>
+
+<p>Recent publications from our core members include that are indicative of our research streams include:</p>
+<ul>
+  <li>Vasconcelos, V. V., Dannenberg, A., &amp; Levin, S. A. (2022). Punishment institutions selected and sustained through voting and learning. Nature Sustainability, 1-8.</li>
+  <li>Santos, F. P., Lelkes, Y., &amp; Levin, S. A. (2021). Link recommendation algorithms and dynamics of polarization in online social networks. Proceedings of the National Academy of Sciences, 118(50), e2102141118.</li>
+  <li>Pinheiro, F. L., Hartmann, D., Boschma, R., &amp; Hidalgo, C. A. (2021). The time and frequency of unrelated diversification. Research Policy, 104323.</li>
+</ul>
+
+<p><br /></p>
+<figure class="fourth">
+  <p><img src="http://localhost:4000/images/logopic/Logo_uva.png" style="width: 110px" />
+  <img src="http://localhost:4000/images/logopic/Logo_novaims.png" style="width: 110px" /></p>
+</figure>
+:ET

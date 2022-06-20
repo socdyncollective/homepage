@@ -1,23 +1,24 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Marcel Geller
+  photo: marcel.jpg
+  topic: Extracting twitter topics lineage trees
+  supervisors: Flávio and Vítor
+  mprogram: Master in Data Science and Advanced Analytics at NOVA IMS (UNL)
 
-- name: Thijs van den Munckhof
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Filipa Carreira Alves
+  photo: filipa.jpg
+  topic: Multilevel topic inference from Twitter 
+  supervisors: Flávio and Vítor
+  mprogram: Master in Data Science and Advanced Analytics at NOVA IMS (UNL)
 
-- name: João van der Ven
-  photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Naomi Custódio
+  photo: naomi.jpg
+  topic: Spatio-temporal Polarization on Twitter
+  supervisors: Flávio and Vítor
+  mprogram: Master in Data Science and Advanced Analytics at NOVA IMS (UNL)
+
+- name: Alberto Parenti
+  photo: alberto.jpg
+  topic: How comparable are tweets from different languages? 
+  supervisors: Flávio and Vítor
+  mprogram: Master in Data Science and Advanced Analytics at NOVA IMS (UNL)
+
