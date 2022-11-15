@@ -30,4 +30,4 @@ December 9th - **Cristian Candia** (Universidad del Desarrollo, Chile), *Modelli
 ## Previous
 
 November 4th -  **Alexander Stewart** (Unv. St Andrews, UK), *Polarization and Inequality in Social Systems* <br>
-October 7th - **Jorge Peña** (University of Toulouse), *The evolution of mechanisms to produce phenotypic heterogeneity in microorganisms*
+October 7th - **Jorge Peña** (University of Toulouse), *Models of Cooperation and Conflict*
