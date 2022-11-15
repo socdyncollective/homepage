@@ -12,7 +12,7 @@ As part of our activities, we organize regular public seminars.
 These seminars are a place for friends, colleagues, and renowned researchers to present and discuss their most recent research with the community interested in studying different aspects of Social Systems Dynamics.
 
 Anyone can attend the seminars online using Zoom. 
-If you are interested in attending reach out to us through <a href = "mailto: fpinheiro@novaims.unl.pt,v.v.vasconcelos@uva.nl">e-mail</a> to request the access link.
+If you are interested in attending reach out to us through <a href = "mailto: fpinheiro@novaims.unl.pt,v.v.vasconcelos@uva.nl,f.p.santos@uva.nl">e-mail</a> to request the access link.
 Please, include information about your name (author name), academic affiliation, and e-mail address.
 We will keep 
 
@@ -21,11 +21,13 @@ Check the description of each event to verify the possibility of attending the e
 
 Sessions will not be recorded.
 
-## Calendar
+## Upcoming
 
-To be announced
+November 18th - **Astrid Dannenberg** (Kassel University, Germany), *Human Behavioural Experiments* <br>
+December 9th - **Cristian Candia** (Universidad del Desarrollo, Chile), *Modelling Collective Memory*
 
 
-## Participants
+## Previous
 
-Below is a list of people that attended one or more events.
+November 4th -  **Alexander Stewart** (Unv. St Andrews, UK), *Polarization and Inequality in Social Systems* <br>
+October 7th - **Jorge Peña** (University of Toulouse), *The evolution of mechanisms to produce phenotypic heterogeneity in microorganisms*

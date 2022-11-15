@@ -1,0 +1,227 @@
+I"�<h1 id="team">Team</h1>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/flavio.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Flávio L. Pinheiro</h4>
+    <p><i>Assistant professor, NOVA IMS - Universidade Nova de Lisboa <br /> 
+email: fpinheiro@novams.unl.pt <br /> 
+www.flaviolpp.com
+</i></p>
+
+    <ul style="overflow: hidden">
+
+
+
+<li> PhD in Physics, Universidade do Minho (2016) </li>
+<li> Postdoc at MIT Media Lab Collective Learning group (2016/2018) </li>
+
+
+
+
+</ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/vitor.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Vítor V. Vasoncelos</h4>
+    <p><i>Assistant Professor, Informatics Institute of the University of Amsterdam <br /> 
+email: v.v.vasconcelos@uva.nl <br /> 
+https://vvvasconcelos.github.io/
+</i></p>
+
+    <ul style="overflow: hidden">
+
+
+
+<li> PhD in Sciences, Universidade do Minho (2017) </li>
+<li> Postdoc at Princeton, Environmental Institute </li>
+
+
+
+
+</ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/fernando.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Fernando P. Santos</h4>
+    <p><i>Assistant Professor, Informatics Institute of the University of Amsterdam <br /> 
+email: f.p.santos@uva.nl <br /> 
+https://fp-santos.github.io/
+</i></p>
+
+    <ul style="overflow: hidden">
+
+
+
+<li> PhD in Computer Engineering, GAIPS/IST - Universidade do Lisboa (2017) </li>
+<li> Postdoc at Princeton, Environmental Institute </li>
+
+
+
+
+</ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/dhruv.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Dhruv Mittal</h4>
+    <p><i>Phd Student, Informatics Institute of the University of Amsterdam <br /> 
+email: d.mittal@uva.nl <br /> 
+NA
+</i></p>
+
+    <ul style="overflow: hidden">
+
+<li> MSc in Physics, Indian Institute of Science Education and Research(IISER), Mohali (2020) </li>
+
+
+
+
+
+
+</ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/anshul.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Anshul Toshniwal</h4>
+    <p><i>Phd Student, Informatics Institute of the University of Amsterdam <br /> 
+email: a.toshniwal@uva.nl <br /> 
+NA
+</i></p>
+
+    <ul style="overflow: hidden">
+
+<li> MSc in Physics, Swiss Federal Institute of Technology Lausanne </li>
+
+
+
+
+
+
+</ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/smit.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Jacobus Smit</h4>
+    <p><i>Phd Student, Informatics Institute of the University of Amsterdam <br /> 
+email: … <br /> 
+NA
+</i></p>
+
+    <ul style="overflow: hidden">
+
+<li> MSc in Mathematics, University of Oxford </li>
+
+
+
+
+
+
+</ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/nalpa.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Nuno Alpalhão</h4>
+    <p><i>Phd Student, NOVA IMS - Universidade Nova de Lisboa <br /> 
+email: nalpalhao@novaims.unl.pt <br /> 
+NA
+</i></p>
+
+    <ul style="overflow: hidden">
+
+
+
+<li> MSc in Data Science and Advanced Analytics, NOVA IMS - Universidade Nova de Lisboa </li>
+<li> BSc in Mathematics, FCT - Universidade Nova de Lisboa </li>
+
+
+
+
+</ul>
+  </div>
+
+</div>
+
+<h1 id="students">Students</h1>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/marcel.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Marcel Geller</h4>
+    <p><i>thesis: “Extracting twitter topics lineage trees” <br /></i>
+<i>supervised by Flávio and Vítor <br /></i>
+<i>Master in Data Science and Advanced Analytics at NOVA IMS (UNL) <br /></i></p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/filipa.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Filipa Carreira Alves</h4>
+    <p><i>thesis: “Multilevel topic inference from Twitter” <br /></i>
+<i>supervised by Flávio and Vítor <br /></i>
+<i>Master in Data Science and Advanced Analytics at NOVA IMS (UNL) <br /></i></p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/naomi.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Naomi Custódio</h4>
+    <p><i>thesis: “Spatio-temporal Polarization on Twitter” <br /></i>
+<i>supervised by Flávio and Vítor <br /></i>
+<i>Master in Data Science and Advanced Analytics at NOVA IMS (UNL) <br /></i></p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/alberto.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Alberto Parenti</h4>
+    <p><i>thesis: “How comparable are tweets from different languages?” <br /></i>
+<i>supervised by Flávio and Vítor <br /></i>
+<i>Master in Data Science and Advanced Analytics at NOVA IMS (UNL) <br /></i></p>
+  </div>
+
+</div>
+
+<h1 id="friends">Friends</h1>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/eliza.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Elisabeth H. Krueger</h4>
+    <p><i>Assistant Professor <br /></i>
+<i>University of Amsterdam <br /></i>
+<i>https://kruegerelis.wixsite.com/urbantrends </i></p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/clelia.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Clélia de Mulatier</h4>
+    <p><i>Assistant Professor <br /></i>
+<i>University of Amsterdam <br /></i>
+<i>http://lptms.u-psud.fr/clelia-de-mulatier/ </i></p>
+  </div>
+
+</div>
+
+:ET
