@@ -1,35 +1,7 @@
-
-- name: Vítor V. Vasoncelos
-  photo: vitor.jpg
-  info: Assistant Professor, Informatics Institute of the University of Amsterdam
-  email: v.v.vasconcelos@uva.nl
-  web: https://vvvasconcelos.github.io/
-  number_educ: 2
-  education1: PhD in Sciences, Universidade do Minho (2017)
-  education2: Postdoc at Princeton, Environmental Institute
-
-- name: Flávio L. Pinheiro
-  photo: flavio.png
-  info: Assistant professor, NOVA IMS - Universidade Nova de Lisboa
-  email: fpinheiro@novams.unl.pt
-  web: www.flaviolpp.com
-  number_educ: 2
-  education1: PhD in Physics, Universidade do Minho (2016)
-  education2: Postdoc at MIT Media Lab Collective Learning group (2016/2018)
-
-- name: Fernando P. Santos
-  photo: fernando.jpg
-  info: Assistant Professor, Informatics Institute of the University of Amsterdam
-  email: f.p.santos@uva.nl
-  web: https://fp-santos.github.io/
-  number_educ: 2
-  education1: PhD in Computer Engineering, GAIPS/IST - Universidade do Lisboa (2017)
-  education2: Postdoc at Princeton, Environmental Institute
-
 - name: Dhruv Mittal
   photo: dhruv.jpeg
   info: Phd Student, Informatics Institute of the University of Amsterdam
-  email: d.mittal@uva.nl
+  email: d.mittal[at]uva.nl
   web: NA
   number_educ: 1
   education1: MSc in Physics, Indian Institute of Science Education and Research(IISER), Mohali (2020)
@@ -37,7 +9,7 @@
 - name: Anshul Toshniwal 
   photo: anshul.jpeg
   info: Phd Student, Informatics Institute of the University of Amsterdam
-  email: a.toshniwal@uva.nl
+  email: a.toshniwal[at]uva.nl
   web: NA
   number_educ: 1
   education1: MSc in Physics, Swiss Federal Institute of Technology Lausanne
@@ -45,7 +17,7 @@
 - name: Jacobus Smit 
   photo: smit.jpeg
   info: Phd Student, Informatics Institute of the University of Amsterdam
-  email: ...
+  email: j.m.m.smit[at]uva.nl
   web: NA
   number_educ: 1
   education1: MSc in Mathematics, University of Oxford
@@ -53,7 +25,7 @@
 - name: Nuno Alpalhão 
   photo: nalpa.jpeg
   info: Phd Student, NOVA IMS - Universidade Nova de Lisboa
-  email: nalpalhao@novaims.unl.pt
+  email: nalpalhao[at]novaims.unl.pt
   web: NA
   number_educ: 2
   education1: MSc in Data Science and Advanced Analytics, NOVA IMS - Universidade Nova de Lisboa

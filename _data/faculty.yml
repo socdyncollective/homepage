@@ -1,0 +1,26 @@
+- name: Vítor V. Vasoncelos
+  photo: vitor.jpg
+  info: Assistant Professor, Informatics Institute of the University of Amsterdam
+  email: v.v.vasconcelos[at]uva.nl
+  web: https://vvvasconcelos.github.io/
+  number_educ: 2
+  education1: PhD in Sciences, Universidade do Minho (2017)
+  education2: Postdoc at Princeton, Environmental Institute
+
+- name: Flávio L. Pinheiro
+  photo: flavio.png
+  info: Assistant professor, NOVA IMS - Universidade Nova de Lisboa
+  email: fpinheiro[at]novams.unl.pt
+  web: www.flaviolpp.com
+  number_educ: 2
+  education1: PhD in Physics, Universidade do Minho (2016)
+  education2: Postdoc at MIT Media Lab Collective Learning group (2016/2018)
+
+- name: Fernando P. Santos
+  photo: fernando.jpg
+  info: Assistant Professor, Informatics Institute of the University of Amsterdam
+  email: f.p.santos[at]uva.nl
+  web: https://fp-santos.github.io/
+  number_educ: 2
+  education1: PhD in Computer Engineering, GAIPS/IST - Universidade do Lisboa (2017)
+  education2: Postdoc at Princeton, Environmental Institute
